@@ -20,6 +20,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Guide To Choose Right AR SDK For Your Next Project](https://shahnawazdev.blogspot.com/2023/04/guide-to-choose-right-ar-sdk-for-your-next-project.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
