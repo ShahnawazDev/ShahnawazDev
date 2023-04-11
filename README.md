@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **AR/VR, Unity**
 
-- 📫 How to reach me **https://twitter.com/shahnawazdev**
+- 📫 How to reach me **[Twitter](https://twitter.com/shahnawazdev)**
 
 - 📄 Know about my experiences [https://shahnawazdev.streamlit.app/](https://shahnawazdev.streamlit.app/)
 
