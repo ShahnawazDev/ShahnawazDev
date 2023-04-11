@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShahnawazDev?tab=repositories](https://github.com/ShahnawazDev?tab=repositories)
 
-- 📝 I regularly write articles on [https://shahnawazdev.blogspot.com/](https://shahnawazdev.blogspot.com/)
+- 📝 I write articles on [https://shahnawazdev.blogspot.com/](https://shahnawazdev.blogspot.com/)
 
 - 💬 Ask me about **AR/VR, Unity**
 
