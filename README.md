@@ -20,6 +20,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [hello world](https://dev.to/shahnawazdev/hello-world-1akd)
 - [How to Choose the Right AR SDK for Your Next Project: A Comprehensive Guide](https://shahnawazdev.blogspot.com/2023/04/guide-to-choose-right-ar-sdk-for-your-next-project.html)
 <!-- BLOG-POST-LIST:END -->
 
