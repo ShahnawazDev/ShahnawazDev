@@ -1,15 +1,17 @@
 name: Latest blog post workflow
 on: 
     schedule:
-        - cron: '0 * * * *'
+        - cron: '0 0 * * *'
 jobs: 
     update-readme-with-blog: 
         name: Update this repo's README with latest blog posts
         runs-on: ubuntu-latest
         steps: 
-            - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
+            - name: Checkout
+            - uses: actions/checkout@v3
+            - name: Pull in dev.to posts
+            - uses: gautamkrishnar/blog-post-workflow@v1
               with: 
                 max_post_count: "4"
-                feed_list: "http://shahnawazdev.blogspot.com/feeds/posts/default?alt=rss" 
-                # feed_list: "http://shahnawazdev.blogspot.com/feeds/posts/default?alt=rss, https://dev.to/feed/shahnawazdev, https://medium.com/feed/@shahnawazdev" 
+                # feed_list: "http://shahnawazdev.blogspot.com/feeds/posts/default?alt=rss" 
+                feed_list: "http://shahnawazdev.blogspot.com/feeds/posts/default?alt=rss, https://dev.to/feed/shahnawazdev, https://medium.com/feed/@shahnawazdev" 
