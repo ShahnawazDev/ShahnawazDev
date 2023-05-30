@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on: 
     schedule:
-        - cron: '15 1 * * *'
+        - cron: '0 0 * * *'
     workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 permissions:
   contents: write # To write the generated contents to the readme
@@ -17,5 +17,5 @@ jobs:
               uses: gautamkrishnar/blog-post-workflow@v1
               with: 
                 max_post_count: "4"
-                feed_list: "http://shahnawazdev.blogspot.com/feeds/posts/default?alt=rss" 
-                # feed_list: "http://shahnawazdev.blogspot.com/feeds/posts/default?alt=rss, https://dev.to/feed/shahnawazdev, https://medium.com/feed/@shahnawazdev" 
+                # feed_list: "http://shahnawazdev.blogspot.com/feeds/posts/default?alt=rss" 
+                feed_list: "http://shahnawazdev.blogspot.com/feeds/posts/default?alt=rss, https://dev.to/feed/shahnawazdev, https://medium.com/feed/@shahnawazdev" 
