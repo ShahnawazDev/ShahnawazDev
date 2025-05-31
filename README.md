@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/shahnawazdev" target="blank"><img src="https://img.shields.io/twitter/follow/shahnawazdev?logo=twitter&style=for-the-badge" alt="shahnawazdev" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning (ibm-exploratory-data-analysis-for-machine-learning)**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShahnawazDev?tab=repositories](https://github.com/ShahnawazDev?tab=repositories)
 
 - 📝 I write articles on [https://shahnawazdev.blogspot.com/](https://shahnawazdev.blogspot.com/)
 
-- 💬 Ask me about **AR/VR, Unity**
+- 💬 Ask me about **Flutter, AR/VR, Unity**
 
 - 📫 How to reach me **[Twitter](https://twitter.com/shahnawazdev)**
 
@@ -36,8 +36,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahnawazdev&show_icons=true&locale=en&layout=compact" alt="shahnawazdev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahnawazdev&show_icons=true&locale=en" alt="shahnawazdev" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahnawazdev" alt="shahnawazdev" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahnawazdev&" alt="shahnawazdev" /></p>
 <!---
